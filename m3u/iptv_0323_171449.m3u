@@ -1,0 +1,1911 @@
+#EXTM3U
+#TV-1 INFO
+http://mrslone.sytes.net:2299/1.ch?u=IPTV6252:p=TNVKJU7F
+#TV-2
+http://mrslone.sytes.net:2299/2.ch?u=IPTV6252:p=TNVKJU7F
+#TV-3
+http://mrslone.sytes.net:2299/3.ch?u=IPTV6252:p=TNVKJU7F
+#TV-4
+http://mrslone.sytes.net:2299/4.ch?u=IPTV6252:p=TNVKJU7F
+#TV-5
+http://mrslone.sytes.net:2299/5.ch?u=IPTV6252:p=TNVKJU7F
+#TV-6
+http://mrslone.sytes.net:2299/6.ch?u=IPTV6252:p=TNVKJU7F
+#TV-7
+http://mrslone.sytes.net:2299/7.ch?u=IPTV6252:p=TNVKJU7F
+#TV-8
+http://mrslone.sytes.net:2299/8.ch?u=IPTV6252:p=TNVKJU7F
+#TV-9
+http://mrslone.sytes.net:2299/9.ch?u=IPTV6252:p=TNVKJU7F
+#TV-10
+http://mrslone.sytes.net:2299/10.ch?u=IPTV6252:p=TNVKJU7F
+#TV-11
+http://mrslone.sytes.net:2299/11.ch?u=IPTV6252:p=TNVKJU7F
+#TV-12
+http://mrslone.sytes.net:2299/12.ch?u=IPTV6252:p=TNVKJU7F
+#TV-13
+http://mrslone.sytes.net:2299/13.ch?u=IPTV6252:p=TNVKJU7F
+#TV-14
+http://mrslone.sytes.net:2299/14.ch?u=IPTV6252:p=TNVKJU7F
+#TV-15
+http://mrslone.sytes.net:2299/15.ch?u=IPTV6252:p=TNVKJU7F
+#TV-16
+http://mrslone.sytes.net:2299/16.ch?u=IPTV6252:p=TNVKJU7F
+#TV-17
+http://mrslone.sytes.net:2299/17.ch?u=IPTV6252:p=TNVKJU7F
+#TV-18
+http://mrslone.sytes.net:2299/18.ch?u=IPTV6252:p=TNVKJU7F
+#TV-19
+http://mrslone.sytes.net:2299/19.ch?u=IPTV6252:p=TNVKJU7F
+#TV-20
+http://mrslone.sytes.net:2299/20.ch?u=IPTV6252:p=TNVKJU7F
+#TRT-HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#TRT-1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#TRT-HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#TRT OKUL
+http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
+#TRT BELGESEL
+http://sol.trtcdn.com/tv/trtbelgesel/smil:trtbelgesel.smil/playlist.m3u8
+#TRT AVAZ
+http://sol.trtcdn.com/tv/trtavaz/smil:trtavaz.smil/playlist.m3u8
+#TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#FOX TV
+http://balkanstream.com/stream/foxturk/putidoma22/udhfbu
+#FOX TV-1
+rtmp://5.9.77.137:1935/live playpath=foxhd.stream swfUrl=http://www.tvport.com/playercan.swf pageUrl=http://www.tvport.com/kanal/fox-tv.html live=1
+#KANAL D
+http://212.224.109.101/S2/HLS_LIVE/kanald/1500/prog_index.m3u8
+#SHOW TV
+http://live-ciner.mncdn.net/showtv/showtv2/ratus42.m3u8
+#SHOW TV
+http://bit.do/Showtv
+#FOX TV
+rtmp://yayin.canlitv.com/live/foxtv
+#STAR TV
+http://live01.vftr.doracdn.com/live/smil:startv.smil/chunklist_b850000.m3u8
+#STAR TV
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+#TV8
+http://yayin6.canlitv.com:1935/live/tv8/playlist.m3u8
+#ATV
+http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8
+#KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#TV2
+http://origin.live.web.tv.streamprovider.net/streams/d1281a2cc49f4f48ff63484373210976_live_0_0/index.m3u
+#e2
+http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
+#KANALTÜRK
+http://kanalturk.ercdn.net/er/kanalturk3/HasBahCa.m3u8
+#BUGUN TV
+http://kanalturk.ercdn.net/er/buguntv1/playlist.m3u8
+#BEYAZ TV
+http://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1/radyodelisi.m3u8
+#A SPOR
+http://tinyurl.com/lmdbpcz
+#A HABER
+http://tinyurl.com/pntnc55
+#HABERTÜRK
+http://live-ciner.mncdn.net/haberturk/haberturk2/radyodelisi.m3u8
+#CNNTÜRK
+http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#SKY TURK
+http://origin.live.web.tv.streamprovider.net/streams/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
+#BLOOMBERG HT
+http://live-ciner.mncdn.net/bloomberght/bloomberght2/radyodelisi.m3u8
+#CNBC-e
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
+#CArton network
+http://yayinlar.tvizleyim.com/org5/cartoonnetwork_me/playlist.m3u8
+#CARTOON NETWORK
+http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+#NICKELODEON
+http://android-hd.izletv.mobi:80/org13/nickelodeon_me/chunks.m3u8
+#DISNEY
+http://android-hd.izletv.mobi:80/org4/disney_me/chunks.m3u8
+#PLANET COCUK
+http://android-hd.izletv.mobi:80/org1/planetcocuk_me/chunks.m3u8
+#HALK TV
+rtmp://37.77.2.236/liveedge/live
+#CAPUL TV
+rtmp://s9.tilda.com.tr:80/live/Stream1
+#KANAL B
+http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
+#SOKAK TV
+http://stream.farm.cdnline.com/bmg/sokak/playlist.m3u8
+#Ulusal Tv
+http://184.173.181.2:1935/8132/8132/playlist.m3u8
+#PLANET COCUK
+rtmp://77.223.146.117/live/planetc
+#TRT-COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#MİNİKA ÇOCUK
+http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
+#MİNİKA GO
+http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
+#Yumurcak TV
+http://edge.ailetv.net/org4/yumurcaktv_me/playlist.m3u8
+#TGRT Haber
+rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
+#SPORT TV
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+#A SPOR
+http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8
+#TRT SPOR
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#NTV SPOR
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#AV ADAMI TV
+rtmp://ms.n1.tvkur.noccdn.com/cdn/54dc7f69d7faa
+#TRT-Arapca
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#IDMAN TV
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8?ry6365KKcgr92Lits4
+#WOMAN LIFE TV
+mmsh://yayin5.canliyayin.org/womanlife?MSWMExt=.asf
+#SHOW TURK
+http://live-ciner.mncdn.net/showturktv/showturktv2/radyodelisi.m3u8
+#DREAM TURK
+http://212.224.108.80/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#NUMBER ONE TÜRK
+http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
+#FLAS-TV
+http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
+#KANAL S
+http://origin.live.web.tv.streamprovider.net/streams/9c6f4a2fc96e73d85cd77132d292a3e1_live_0_0/index.m3u8
+#KIBRIS T
+http://yayin3.canlitv.com:1935/live/kibriskanalt/playlist.m3u8
+#CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#PLANET MUTFAK
+rtmp://77.223.146.117/live/planetm
+#PLANET PEMBE
+rtmp://77.223.146.117/live/planetp
+#PLANET TÜRK
+rtmp://77.223.146.117/live/planett
+#EGE TV
+http://origin.live.web.tv.streamprovider.net/streams/b9d3970790fd8c229c12e439bd9b766a_live_0_0/index.m3u8
+#CAY TV
+rtmp://stream2.taksimbilisim.com:1935/caytv/bant1
+#VATAN TV
+rtmp://188.124.1.135:1935/vatan/vatan
+#CEM TV
+rtmp://stream.pivol.com:1935/live/cemtv.flv
+#SAKARYA TV
+rtmp://s01.speednext.com:1935/sakaryatelevizyonu/sakaryatelevizyonu
+#YABAN TV
+http://origin.live.web.tv.streamprovider.net/streams/b5bcc039336d725a0a4aab44347e5b36_live_0_0/index.m3u8
+#Quran TV
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#TURK SİNEMA
+http://212.224.108.80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#Ülke Tv
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#SPOR:RUS 1 Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#SPOR:RUS Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#SPOR:RUS Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#SPOR:RUS Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#KTV Sport Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#KTV Sport Plus
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
+#MBC Pro Sports 4 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+#SaudiSport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
+#Al Hayat 2
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+#ESCALES
+http://91.211.51.155:5555/udp/224.20.20.30:1234
+#Chasse et Peche
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+#ANIMAUX
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#Documania
+http://teleclub.fr/documania.mp4
+#ENCYCLO
+http://91.211.51.155:5555/udp/224.20.20.29:1234
+#TF1 HD
+http://stream4.latvdefrance.com/demo/tf1.m3u8
+#HD1
+http://stream4.latvdefrance.com/demo/hd1.m3u8
+#FRANCEO
+http://stream4.latvdefrance.com/demo/franceo.m3u8
+#FRANCE3
+http://stream4.latvdefrance.com/demo/france3.m3u8
+#FRANCE4
+http://stream4.latvdefrance.com/demo/france4.m3u8
+#CANAL+
+http://stream4.latvdefrance.com/demo/canalplus.m3u8
+#CANAL+ SPORT
+http://stream4.latvdefrance.com/demo/canalsport.m3u8
+#D8
+http://stream4.latvdefrance.com/demo/d8.m3u8
+#ARTE
+http://stream4.latvdefrance.com/demo/arte.m3u8
+#M6
+http://stream4.latvdefrance.com/demo/m6.m3u8
+#6TER
+http://stream4.latvdefrance.com/demo/6ter.m3u8
+#W9
+http://stream4.latvdefrance.com/demo/w9.m3u8
+#TMC
+http://stream4.latvdefrance.com/demo/tmc.m3u8
+#NRJ12
+http://stream4.latvdefrance.com/demo/nrj12.m3u8
+#D17
+http://stream4.latvdefrance.com/demo/d17.m3u8
+#I TELE
+http://stream4.latvdefrance.com/demo/itele.m3u8
+#GULLI
+http://stream4.latvdefrance.com/demo/gulli.m3u8
+#L`EQUIPE21
+http://stream4.latvdefrance.com/demo/lequipe.m3u8
+#BMFTV
+http://stream4.latvdefrance.com/demo/bfm.m3u8
+#Animal Planet
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/bw480000/variant.m3u8?version=2
+#BBC World News
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_BBCWORLDNEWS/bw480000/variant.m3u8?version=2
+#Baby TV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/bw480000/variant.m3u8?version=2
+#Boomerang
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BOOMERANG/bw480000/variant.m3u8?version=2
+#Bridge TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRIDGETV/bw480000/variant.m3u8?version=2
+#Cartoon Network
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw480000/variant.m3u8?version=2
+#Discovery Science
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE/bw480000/variant.m3u8?version=2
+#Discovery World
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/bw480000/variant.m3u8?version=2
+#E! Entertainment
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_EENTERTEMENT/bw480000/variant.m3u8?version=2
+#EUROPA PLUS TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/bw480000/variant.m3u8?version=2
+#English club TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/bw480000/variant.m3u8?version=2
+#Euronews
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_EURONEWS/bw480000/variant.m3u8?version=2
+#Eurosport
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/bw480000/variant.m3u8?version=2
+#Eurosport 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/bw480000/variant.m3u8?version=2
+#Eurosport News
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/bw480000/variant.m3u8?version=2
+#Extreme Sports
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EXTREMESPORTS/bw480000/variant.m3u8?version=2
+#FOX
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FOX/bw480000/variant.m3u8?version=2
+#Fashion TV
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_FASHIONTV/bw480000/variant.m3u8?version=2
+#Fox Life
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FOXLIFE/bw480000/variant.m3u8?version=2
+#World
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MIR/bw480000/variant.m3u8?version=2
+#World 24
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MIR24/bw480000/variant.m3u8?version=2
+#My Planet
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MYPLANET/bw480000/variant.m3u8?version=2
+#MUZ-TV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_MUZTV/bw480000/variant.m3u8?version=2
+#Cartoon
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MULT/bw480000/variant.m3u8?version=2
+#really scary Television
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NSTV/bw480000/variant.m3u8?version=2
+#NTV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/bw480000/variant.m3u8?version=2
+#NTV-Plus Basketball
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/bw480000/variant.m3u8?version=2
+#NTV-Plus Movie Plus
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/bw480000/variant.m3u8?version=2
+#Our cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/bw480000/variant.m3u8?version=2
+#NTV Plus Sport Plus
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/bw480000/variant.m3u8?version=2
+#Science 2.0
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NAUKA20/bw480000/variant.m3u8?version=2
+#Russia 1
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSIA1/bw480000/variant.m3u8?version=2
+#Russia 2
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIA2/bw480000/variant.m3u8?version=2
+#Russia 24
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/bw480000/variant.m3u8?version=2
+#Culture
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIAK/bw480000/variant.m3u8?version=2
+#Russian Bestseller
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANBESTSELLER/bw480000/variant.m3u8?version=2
+#Russian Illusion
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSIANILLUSION/bw480000/variant.m3u8?version=2
+#Russian novel
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSINAROMAN/bw480000/variant.m3u8?version=2
+#Russian extreme
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/bw480000/variant.m3u8?version=2
+#Dress
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C01_SARAFAN/bw480000/variant.m3u8?version=2
+#Union
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SOYUZ/bw480000/variant.m3u8?version=2
+#Sports
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/bw480000/variant.m3u8?version=2
+#Sport 1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/bw480000/variant.m3u8?version=2
+#Country
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_STRANA/bw480000/variant.m3u8?version=2
+#TV Center
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/bw480000/variant.m3u8?version=2
+#TV3
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_TV3/bw480000/variant.m3u8?version=2
+#Techno 24
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_24TEHNO/bw480000/variant.m3u8?version=2
+#TNT
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT/bw480000/variant.m3u8?version=2
+#TPO
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TRO/bw480000/variant.m3u8?version=2
+#Homestead
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_USADBA/bw480000/variant.m3u8?version=2
+#Success
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_USPEH/bw480000/variant.m3u8?version=2
+#Phoenix Cinema +
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_GENIKSPLUSKINO/bw480000/variant.m3u8?version=2
+#Football
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/bw480000/variant.m3u8?version=2
+#Chanson-TB
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SHANSONTV/bw480000/variant.m3u8?version=2
+#S
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_U/bw480000/variant.m3u8?version=2
+#Humor Box
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_HUMORTV/bw480000/variant.m3u8?version=2
+#AB Moteurs
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_ABMOTEURS/bw480000/variant.m3u8?version=2
+#CBS Drama
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_CBSDRAMA/bw480000/variant.m3u8?version=2
+#Discovery Channel
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/bw480000/variant.m3u8?version=2
+#TV 7
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
+#SINEMA-1
+http://mrslnin.nl:3333/media/videos/1.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-2
+http://mrslnin.nl:3333/media/videos/2.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-3
+http://mrslnin.nl:3333/media/videos/3.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-4
+http://mrslnin.nl:3333/media/videos/4.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-5
+http://mrslnin.nl:3333/media/videos/5.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-6
+http://mrslnin.nl:3333/media/videos/6.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-7
+http://mrslnin.nl:3333/media/videos/7.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-8
+http://mrslnin.nl:3333/media/videos/8.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-9
+http://mrslnin.nl:3333/media/videos/9.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-10
+http://mrslnin.nl:3333/media/videos/10.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-11
+http://mrslnin.nl:3333/media/videos/11.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-12
+http://mrslnin.nl:3333/media/videos/12.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-13
+http://mrslnin.nl:3333/media/videos/13.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-14
+http://mrslnin.nl:3333/media/videos/14.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-15
+http://mrslnin.nl:3333/media/videos/15.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-16
+http://mrslnin.nl:3333/media/videos/16.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-17
+http://mrslnin.nl:3333/media/videos/17.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-18
+http://mrslnin.nl:3333/media/videos/18.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-19
+http://mrslnin.nl:3333/media/videos/19.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-20
+http://mrslnin.nl:3333/media/videos/20.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-21
+http://mrslnin.nl:3333/media/videos/21.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-22
+http://mrslnin.nl:3333/media/videos/22.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-23
+http://mrslnin.nl:3333/media/videos/23.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-24
+http://mrslnin.nl:3333/media/videos/24.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-25
+http://mrslnin.nl:3333/media/videos/25.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-26
+http://mrslnin.nl:3333/media/videos/26.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-27
+http://mrslnin.nl:3333/media/videos/27.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-28
+http://mrslnin.nl:3333/media/videos/28.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-29
+http://mrslnin.nl:3333/media/videos/29.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-30
+http://mrslnin.nl:3333/media/videos/30.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-31
+http://mrslnin.nl:3333/media/videos/31.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-32
+http://mrslnin.nl:3333/media/videos/32.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-33
+http://mrslnin.nl:3333/media/videos/33.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-34
+http://mrslnin.nl:3333/media/videos/34.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-35
+http://mrslnin.nl:3333/media/videos/35.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-36
+http://mrslnin.nl:3333/media/videos/36.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-37
+http://mrslnin.nl:3333/media/videos/37.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-38
+http://mrslnin.nl:3333/media/videos/38.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-39
+http://mrslnin.nl:3333/media/videos/39.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-40
+http://mrslnin.nl:3333/media/videos/40.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-41
+http://mrslnin.nl:3333/media/videos/41.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-42
+http://mrslnin.nl:3333/media/videos/42.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-43
+http://mrslnin.nl:3333/media/videos/43.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-44
+http://mrslnin.nl:3333/media/videos/44.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-45
+http://mrslnin.nl:3333/media/videos/45.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-46
+http://mrslnin.nl:3333/media/videos/46.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-47
+http://mrslnin.nl:3333/media/videos/47.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-48
+http://mrslnin.nl:3333/media/videos/48.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-49
+http://mrslnin.nl:3333/media/videos/49.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-50
+http://mrslnin.nl:3333/media/videos/50.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-51
+http://mrslnin.nl:3333/media/videos/51.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-52
+http://mrslnin.nl:3333/media/videos/52.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-53
+http://mrslnin.nl:3333/media/videos/53.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-54
+http://mrslnin.nl:3333/media/videos/54.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-55
+http://mrslnin.nl:3333/media/videos/55.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-56
+http://mrslnin.nl:3333/media/videos/56.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-57
+http://mrslnin.nl:3333/media/videos/57.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-58
+http://mrslnin.nl:3333/media/videos/58.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-59
+http://mrslnin.nl:3333/media/videos/59.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-60
+http://mrslnin.nl:3333/media/videos/60.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-61
+http://mrslnin.nl:3333/media/videos/61.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-62
+http://mrslnin.nl:3333/media/videos/62.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-63
+http://mrslnin.nl:3333/media/videos/63.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-64
+http://mrslnin.nl:3333/media/videos/64.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-65
+http://mrslnin.nl:3333/media/videos/65.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-66
+http://mrslnin.nl:3333/media/videos/66.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-67
+http://mrslnin.nl:3333/media/videos/67.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-68
+http://mrslnin.nl:3333/media/videos/68.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-69
+http://mrslnin.nl:3333/media/videos/69.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-70
+http://mrslnin.nl:3333/media/videos/70.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-71
+http://mrslnin.nl:3333/media/videos/71.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-72
+http://mrslnin.nl:3333/media/videos/72.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-73
+http://mrslnin.nl:3333/media/videos/73.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-74
+http://mrslnin.nl:3333/media/videos/74.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-75
+http://mrslnin.nl:3333/media/videos/75.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-76
+http://mrslnin.nl:3333/media/videos/76.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-77
+http://mrslnin.nl:3333/media/videos/77.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-78
+http://mrslnin.nl:3333/media/videos/78.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-79
+http://mrslnin.nl:3333/media/videos/79.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-80
+http://mrslnin.nl:3333/media/videos/80.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-81
+http://mrslnin.nl:3333/media/videos/81.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-82
+http://mrslnin.nl:3333/media/videos/82.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-83
+http://mrslnin.nl:3333/media/videos/83.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-84
+http://mrslnin.nl:3333/media/videos/84.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-85
+http://mrslnin.nl:3333/media/videos/85.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-86
+http://mrslnin.nl:3333/media/videos/86.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-87
+http://mrslnin.nl:3333/media/videos/87.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-88
+http://mrslnin.nl:3333/media/videos/88.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-89
+http://mrslnin.nl:3333/media/videos/89.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-90
+http://mrslnin.nl:3333/media/videos/90.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-91
+http://mrslnin.nl:3333/media/videos/91.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-92
+http://mrslnin.nl:3333/media/videos/92.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-93
+http://mrslnin.nl:3333/media/videos/93.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-94
+http://mrslnin.nl:3333/media/videos/94.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-95
+http://mrslnin.nl:3333/media/videos/95.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-96
+http://mrslnin.nl:3333/media/videos/96.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-97
+http://mrslnin.nl:3333/media/videos/97.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-98
+http://mrslnin.nl:3333/media/videos/98.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-99
+http://mrslnin.nl:3333/media/videos/99.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-100
+http://mrslnin.nl:3333/media/videos/100.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-101
+http://mrslnin.nl:3333/media/videos/101.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-102
+http://mrslnin.nl:3333/media/videos/102.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-103
+http://mrslnin.nl:3333/media/videos/103.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-104
+http://mrslnin.nl:3333/media/videos/104.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-105
+http://mrslnin.nl:3333/media/videos/105.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-106
+http://mrslnin.nl:3333/media/videos/106.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-107
+http://mrslnin.nl:3333/media/videos/107.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-108
+http://mrslnin.nl:3333/media/videos/108.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-109
+http://mrslnin.nl:3333/media/videos/109.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-110
+http://mrslnin.nl:3333/media/videos/110.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-111
+http://mrslnin.nl:3333/media/videos/111.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-112
+http://mrslnin.nl:3333/media/videos/112.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-113
+http://mrslnin.nl:3333/media/videos/113.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-114
+http://mrslnin.nl:3333/media/videos/114.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-115
+http://mrslnin.nl:3333/media/videos/115.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-116
+http://mrslnin.nl:3333/media/videos/116.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-117
+http://mrslnin.nl:3333/media/videos/117.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-118
+http://mrslnin.nl:3333/media/videos/118.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-119
+http://mrslnin.nl:3333/media/videos/119.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-120
+http://mrslnin.nl:3333/media/videos/120.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-121
+http://mrslnin.nl:3333/media/videos/121.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-122
+http://mrslnin.nl:3333/media/videos/122.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-123
+http://mrslnin.nl:3333/media/videos/123.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-124
+http://mrslnin.nl:3333/media/videos/124.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-125
+http://mrslnin.nl:3333/media/videos/125.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-126
+http://mrslnin.nl:3333/media/videos/126.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-127
+http://mrslnin.nl:3333/media/videos/127.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-128
+http://mrslnin.nl:3333/media/videos/128.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-129
+http://mrslnin.nl:3333/media/videos/129.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-130
+http://mrslnin.nl:3333/media/videos/130.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-131
+http://mrslnin.nl:3333/media/videos/131.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-132
+http://mrslnin.nl:3333/media/videos/132.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-133
+http://mrslnin.nl:3333/media/videos/133.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-134
+http://mrslnin.nl:3333/media/videos/134.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-135
+http://mrslnin.nl:3333/media/videos/135.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-136
+http://mrslnin.nl:3333/media/videos/136.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-137
+http://mrslnin.nl:3333/media/videos/137.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-138
+http://mrslnin.nl:3333/media/videos/138.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-139
+http://mrslnin.nl:3333/media/videos/139.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-140
+http://mrslnin.nl:3333/media/videos/140.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-141
+http://mrslnin.nl:3333/media/videos/141.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-142
+http://mrslnin.nl:3333/media/videos/142.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-143
+http://mrslnin.nl:3333/media/videos/143.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-144
+http://mrslnin.nl:3333/media/videos/144.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-145
+http://mrslnin.nl:3333/media/videos/145.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-146
+http://mrslnin.nl:3333/media/videos/146.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-147
+http://mrslnin.nl:3333/media/videos/147.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-148
+http://mrslnin.nl:3333/media/videos/148.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-149
+http://mrslnin.nl:3333/media/videos/149.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-150
+http://mrslnin.nl:3333/media/videos/150.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-151
+http://mrslnin.nl:3333/media/videos/151.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-152
+http://mrslnin.nl:3333/media/videos/152.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-153
+http://mrslnin.nl:3333/media/videos/153.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-154
+http://mrslnin.nl:3333/media/videos/154.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-155
+http://mrslnin.nl:3333/media/videos/155.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-156
+http://mrslnin.nl:3333/media/videos/156.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-157
+http://mrslnin.nl:3333/media/videos/157.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-158
+http://mrslnin.nl:3333/media/videos/158.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-159
+http://mrslnin.nl:3333/media/videos/159.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-160
+http://mrslnin.nl:3333/media/videos/160.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-161
+http://mrslnin.nl:3333/media/videos/161.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-162
+http://mrslnin.nl:3333/media/videos/162.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-163
+http://mrslnin.nl:3333/media/videos/163.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-164
+http://mrslnin.nl:3333/media/videos/164.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-165
+http://mrslnin.nl:3333/media/videos/165.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-166
+http://mrslnin.nl:3333/media/videos/166.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-167
+http://mrslnin.nl:3333/media/videos/167.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-168
+http://mrslnin.nl:3333/media/videos/168.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-169
+http://mrslnin.nl:3333/media/videos/169.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-170
+http://mrslnin.nl:3333/media/videos/170.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-171
+http://mrslnin.nl:3333/media/videos/171.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-172
+http://mrslnin.nl:3333/media/videos/172.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-173
+http://mrslnin.nl:3333/media/videos/173.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-174
+http://mrslnin.nl:3333/media/videos/174.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-175
+http://mrslnin.nl:3333/media/videos/175.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-176
+http://mrslnin.nl:3333/media/videos/176.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-177
+http://mrslnin.nl:3333/media/videos/177.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-178
+http://mrslnin.nl:3333/media/videos/178.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-179
+http://mrslnin.nl:3333/media/videos/179.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-180
+http://mrslnin.nl:3333/media/videos/180.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-181
+http://mrslnin.nl:3333/media/videos/181.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-182
+http://mrslnin.nl:3333/media/videos/182.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-183
+http://mrslnin.nl:3333/media/videos/183.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-184
+http://mrslnin.nl:3333/media/videos/184.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-185
+http://mrslnin.nl:3333/media/videos/185.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-186
+http://mrslnin.nl:3333/media/videos/186.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-187
+http://mrslnin.nl:3333/media/videos/187.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-188
+http://mrslnin.nl:3333/media/videos/188.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-189
+http://mrslnin.nl:3333/media/videos/189.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-190
+http://mrslnin.nl:3333/media/videos/190.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-191
+http://mrslnin.nl:3333/media/videos/191.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-192
+http://mrslnin.nl:3333/media/videos/192.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-193
+http://mrslnin.nl:3333/media/videos/193.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-194
+http://mrslnin.nl:3333/media/videos/194.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-195
+http://mrslnin.nl:3333/media/videos/195.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-196
+http://mrslnin.nl:3333/media/videos/196.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-197
+http://mrslnin.nl:3333/media/videos/197.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-198
+http://mrslnin.nl:3333/media/videos/198.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-199
+http://mrslnin.nl:3333/media/videos/199.ts?u=IPTV6252:p=TNVKJU7F
+#SINEMA-200
+http://mrslnin.nl:3333/media/videos/200.ts?u=IPTV6252:p=TNVKJU7F
+#24 NEWS
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#2X2 TV
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/2x2/2x2/2x2.m3u8?seyirturk=fb:simpletvipadresleri3
+#365 TV
+http://hls01-12.az.myvideo.az/hls-live/livepkgr/365day/365day/365day.m3u8?seyirturk=fb:simpletvipadresleri3
+#3PLUS SD
+http://81.92.105.135:5555/pl.m3u8?channel=75
+#3SAT
+http://81.92.105.135:5555/pl.m3u8?channel=9
+#3SAT
+rtmp://5.189.144.85/live?auth=f2803c3096a0b8eaf6452e2758b0ffba93dd0c75bb449dffda77faf37bf84894//3sat_ch
+#4PLUS SD
+http://81.92.105.135:5555/pl.m3u8?channel=76
+#5 KANAL
+rtsp://media.5.ua:8080/tv/5tv/5tv1
+#8 MONT BLANC
+rtmp://5.189.144.85/live?auth=65287218406dd4759267ac3dde09aa74ce4d4ee705032e8aeea4c496b921afa9//tv8_mont_blanc
+#9 VOLINA TV
+rtmp://176.9.127.102/live/myStream_1
+#ABKHAZIA HD
+http://80.77.52.6:4314/udp/226.0.0.20:12345
+#ABU DHABI
+rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+#ABU DHABI DRAM
+rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
+#ACTION 24
+rtsp://live.cdn2.streamago.tv/streamago/52721/44490/?idcanale=44490
+#AL AGHANI
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#AL BAGHDAD
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#AL HAYAT
+rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#AL HAYAT CINEMA
+rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream
+#AL HAYAT1
+rtmp://globalboxrtmp.tulix.tv/alhayat_1/globaltv-alhayat_1.stream
+#AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#AL JAZEERA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
+#AL RIADA SPORT
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+#AL SHARGIYA
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#AL YAUM
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
+#ALEX BERLIN
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
+#ALPHA
+http://81.92.105.135:5555/pl.m3u8?channel=13
+#ALSACE 20
+http://81.92.105.135:5555/pl.m3u8?channel=420
+#ALWATAN
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+#ALWATAN GHANAWI
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+#ANIMANIA
+http://tv.ut.cx/animania.mp4
+#ANN TV
+rtmp://ns8.indexforce.com/ann/ann
+#ANS TV
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/anstv/anstv/anstv.m3u8?seyirturk=fb:simpletvipadresleri3
+#ARABIC MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#ARABIC MUSIC
+http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8
+#ARD
+rtmp://5.189.144.85/live?auth=8ec35ed863dbe4b1898589eb47773ba4858bbd33c22b6a6145946635a81f6942//ard
+#ARTE
+http://81.92.105.135:5555/pl.m3u8?channel=10
+#ARTE
+rtmp://5.189.144.85/live?auth=b8a9a1e44d3d47a4264ca6c76e2b52a298528958c2121c74a5f01b1e775514a7//arte_de
+#ARTE
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#ARTE
+rtmp://5.189.144.85/live?auth=21ad4923eadcef82951a1440bfb6cd8b7ac45c2131472573c9fdbb2db2fcd8d9//arte_fr
+#ARTE HD
+http://81.92.105.135:5555/pl.m3u8?channel=102
+#ASIA XX1
+http://59.120.43.181:8081
+#ASIA XX2
+http://59.120.43.181:8082
+#ASIA XX3
+http://59.120.43.181:8083
+#ASIA XX4
+http://59.120.43.181:8084
+#ASK TV
+http://edge2.everyon.tv:1935/etv2/phd1005/huraivza.m3u8
+#ASK TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#ATV
+http://81.92.105.135:5555/pl.m3u8?channel=11
+#ATV AZ
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/atvaz/atvaz/atvaz.m3u8?seyirturk=fb:simpletvipadresleri3
+#ATV2
+http://81.92.105.135:5555/pl.m3u8?channel=60
+#AVUSTURYA 24
+rtmp://streaming.austria24.tv/live/stream_720p
+#AXN SCIFI RU
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/axnscifi/axnscifi/axnscifi.m3u8?seyirturk=fb:simpletvipadresleri3
+#AZERBAYCAN TV
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8
+#BAGHDAD
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+#BAYER FSNORD
+http://81.92.105.135:5555/pl.m3u8?channel=86
+#BAYERISSCHES
+http://81.92.105.135:5555/pl.m3u8?channel=69
+#BBC ARABIA
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#BBC ENTER EU
+http://81.92.105.135:5555/pl.m3u8?channel=143
+#BBC ONE LON
+http://81.92.105.135:5555/pl.m3u8?channel=141
+#BBC ONE NI
+http://81.92.105.135:5555/pl.m3u8?channel=145
+#BBC TWO ENG
+http://81.92.105.135:5555/pl.m3u8?channel=142
+#BBC WORLD
+http://81.92.105.135:5555/pl.m3u8?channel=144
+#BFM BUSINESS
+http://81.92.105.135:5555/pl.m3u8?channel=405
+#BFM BUSINESS
+rtmp://5.189.144.85/live?auth=140ef1388b8168acdd99f2d9a14c9470b9cc5f24c2b62141f0ad05bb1d2bd09b//bfmbusiness
+#BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#BFM TV
+http://81.92.105.135:5555/pl.m3u8?channel=419
+#BFM TV
+rtmp://5.189.144.85/live?auth=b1650cbe219a379c08e5ded34f27207bee4eb608ed1654778a5f547ffb4fdd92//bfmtv
+#BIBEL TV
+http://81.92.105.135:5555/pl.m3u8?channel=12
+#BLOOMBERG
+http://81.92.105.135:5555/pl.m3u8?channel=26
+#BLOOMBERG
+rtmp://5.189.144.85/live?auth=5621327a6a4aef83f58ab1b74480ff492431b40fbc489fc18c37fb88bc4cf3a1//bloombergtv
+#BLOOMBERG EU
+http://81.92.105.135:5555/pl.m3u8?channel=312
+#BLOOMBERG TV
+http://hls01-10.az.myvideo.az/hls-live/livepkgr/bloomberg/bloomberg/bloomberg.m3u8?seyirturk=fb:simpletvipadresleri3
+#BLUE HUSTLER
+http://46.61.226.21/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#BLUE HUSTLER
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#BN MUSIC
+http://81.92.105.135:5555/pl.m3u8?channel=157
+#BN SAT
+http://81.92.105.135:5555/pl.m3u8?channel=158
+#BOETS
+http://hls01-12.az.myvideo.az/hls-live/livepkgr/boets/boets/boets.m3u8?seyirturk=fb:simpletvipadresleri3
+#BR3
+rtmp://5.189.144.85/live?auth=82aac0d321d7a9c961b593f8dded26f439c42527a7057c3f4fe32f3db40ccdec//bayern3
+#BT Sports 1
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?wowzasessionid=1270171110
+#BT Sports 2
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?wowzasessionid=340337698
+#BTV
+http://81.92.105.135:5555/pl.m3u8?channel=59
+#BUT GO
+http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
+#BUTGO
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#CAIRO CINEMA
+rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+#CAIRO DRAMA
+rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream
+#CANAL 9
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#CANAL I
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#CBBC
+http://81.92.105.135:5555/pl.m3u8?channel=146
+#CBC AZER
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/cbcaz/cbcaz/cbcaz.m3u8?seyirturk=fb:simpletvipadresleri3
+#CBEEBIES
+http://81.92.105.135:5555/pl.m3u8?channel=300
+#CBS ACTION
+http://81.92.105.135:5555/pl.m3u8?channel=303
+#CBS DRAMA
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/cbsdrama/cbsdrama/cbsdrama.m3u8?seyirturk=fb:simpletvipadresleri3
+#CBS REALITY
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/cbsreality/cbsreality/cbsreality.m3u8?seyirturk=fb:simpletvipadresleri3
+#CC TVF
+http://81.92.105.135:5555/pl.m3u8?channel=421
+#CHANNEL 4
+http://81.92.105.135:5555/pl.m3u8?channel=96
+#CI TV
+http://81.92.105.135:5555/pl.m3u8?channel=304
+#CINE FIL
+http://teleclub.fr/cinefil.mp4
+#CINE OTILE
+http://teleclub.fr/cinetoile.mp4
+#CINEFIL
+http://tv.ut.cx/cinefil.mp4
+#CINERO
+http://edge2.everyon.tv:1935/etv2sb/phd59/huraivza.m3u8
+#CINERO
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#CINETOILE
+http://tv.ut.cx/cinetoile.mp4
+#CING PLUS
+http://tv.ut.cx/cinqplus.mp4
+#CLUB 1
+http://tv.ut.cx/club1.mp4
+#CLUB 1
+http://teleclub.fr/club1.mp4
+#CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#CNBC EU
+http://81.92.105.135:5555/pl.m3u8?channel=311
+#COMEDY CENTRAL
+http://81.92.105.135:5555/pl.m3u8?channel=61
+#COMEDY TV
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/komeditv/komeditv/komeditv.m3u8?seyirturk=fb:simpletvipadresleri3
+#D MAX
+http://81.92.105.135:5555/pl.m3u8?channel=18
+#D17
+http://81.92.105.135:5555/pl.m3u8?channel=414
+#D8
+rtmp://5.189.144.85/live?auth=236c575fc754fd8dc8a886d24d4935c0e410aeeef80803542824f62716072a63//d8
+#DAS ERSTE
+http://81.92.105.135:5555/pl.m3u8?channel=4
+#DAS ERSTE
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#DAS NEUE TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+#DELIGHT EMPIRE
+http://edge2.everyon.tv:1935/etv2sb/phd63/huraivza.m3u8
+#DELIGHT EMPIRE
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#DELUXE MUSIC
+http://81.92.105.135:5555/pl.m3u8?channel=17
+#DELUXE MUSIC
+rtmp://5.189.144.85/live?auth=60d141cfb8845c22b86cdb1f1f4e20b28f18fa1366446f8a7cfb6d5e625cba09//deluxemusic
+#DEUTSCHE MUSIC
+rtmp://5.189.144.85/live?auth=c1645730a6c795223fa46ca950805704192ca1b650f71c4cb5e5fc6717c7d037//deutschesmusikfernsehen
+#DEUTSCHES ANLEG
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
+#DIRETTA
+http://81.92.105.135:5555/pl.m3u8?channel=27
+#DISNEY CH
+http://81.92.105.135:5555/pl.m3u8?channel=16
+#DISNEY CH
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?seyirturk=fb:simpletvipadresleri3
+#DIVA UNI
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/diva/diva/diva.m3u8?seyirturk=fb:simpletvipadresleri3
+#DMAX
+rtmp://5.189.144.85/live?auth=4b7111dee73eec1dbba709c65a1ce9d39921d54773d0795dee39a2e850879f10//dmax_ch
+#DOBRO TV
+http://81.92.105.135:5555/pl.m3u8?channel=163
+#DOCKA
+http://80.77.52.6:4314/udp/226.0.0.71:12345
+#DOCUMANIA
+http://tv.ut.cx/documania.mp4
+#DRESTEN FERNSEHEN
+http://81.92.105.135:5555/pl.m3u8?channel=99
+#DRIVE
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/drive/drive/drive.m3u8?seyirturk=fb:simpletvipadresleri3
+#DUGA TV
+http://81.92.105.135:5555/pl.m3u8?channel=161
+#DW
+http://81.92.105.135:5555/pl.m3u8?channel=19
+#DW EUROPE
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/dweurope/dweurope/dweurope.m3u8?seyirturk=fb:simpletvipadresleri3
+#E4
+http://81.92.105.135:5555/pl.m3u8?channel=93
+#ECHOROUK
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+#EINS FESTIVAL
+http://81.92.105.135:5555/pl.m3u8?channel=20
+#EINS PLUS
+http://81.92.105.135:5555/pl.m3u8?channel=21
+#EURONEWS
+http://81.92.105.135:5555/pl.m3u8?channel=172
+#EUROSPORT
+http://81.92.105.135:5555/pl.m3u8?channel=24
+#EUROSPORT
+rtmp://5.189.144.85/live?auth=a35248be6db3c9c87dc58a60463ca44c168250b50e9af0e97bd28f0ed0b2a3ac//eurosport_de
+#EUROTIC 1
+http://iptv.euroremix.com:8000/live/Hussain/atif789/1157.ts
+#EUROTIC 2
+http://iptv.euroremix.com:8000/live/Hussain/atif789/1156.ts
+#EUROTIC 4
+http://iptv.euroremix.com:8000/live/Hussain/atif789/1158.ts
+#FAMILY TV
+http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
+#FASHION TV
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/ftv/ftv/ftv.m3u8?seyirturk=fb:simpletvipadresleri3
+#FATAFEAT
+http://212.179.77.42/live/livestream3/gmswf.m3u8
+#FILM 4
+http://81.92.105.135:5555/pl.m3u8?channel=95
+#FILSTALWELLE
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#FOX MOVIES
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#FRANCE
+http://81.92.105.135:5555/pl.m3u8?channel=411
+#FRANCE 2
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
+#FRANCE 2
+http://81.92.105.135:5555/pl.m3u8?channel=401
+#FRANCE 24
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/france24/france24/france24.m3u8?seyirturk=fb:simpletvipadresleri3
+#FRANCE 24
+http://81.92.105.135:5555/pl.m3u8?channel=406
+#FRANCE 24
+rtmp://5.189.144.85/live?auth=eb465282da05b449516f7aaecdd5cc6b3e1c1e4f9afaeed0d18c198d33a0d2c7//fr24
+#FRANCE 24 ENG
+http://81.92.105.135:5555/pl.m3u8?channel=309
+#FRANCE 3
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls_v1/France_3-audio_AACL_fra_70000_325=70000-video=1404000.m3u8
+#FRANCE 3
+http://94.23.33.220:8080/simulcast/France_3/hls_v1/.m3u8
+#FRANCE 3
+http://81.92.105.135:5555/pl.m3u8?channel=402
+#FRANCE 3
+rtmp://5.189.144.85/live?auth=82abc725a61d428cf5f6a3dcf283eee1048999dfbf3ec6a280dfdaf4501f33b7//fr3
+#FRANCE 4
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+#FRANCE 4
+http://94.23.33.220:8080/simulcast/France_4/hls_v1/.m3u8
+#FRANCE 4
+http://81.92.105.135:5555/pl.m3u8?channel=403
+#FRANCE 4
+rtmp://5.189.144.85/live?auth=e5e3445c86e596c525ebe174bbea6a6e4eb5e35173c7536a9312e4bad93d68b8//fr4
+#FRANCE 5
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_5/hls_v1/France_5-audio_AACL_fra_70000_345=70000-video=1404000.m3u8
+#FRANCE 5
+http://81.92.105.135:5555/pl.m3u8?channel=404
+#FRANCE 5
+rtmp://5.189.144.85/live?auth=250d371ee7cbe87b90cfa82680a2d57c97fcb1775b985b8854719b1d0f834bee//fr5
+#FUNOON TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#GEORGIAN HD
+http://80.77.52.6:4314/udp/226.0.0.5:12345
+#GERMANY ZDF
+http://81.92.105.135:5555/pl.m3u8?channel=5
+#GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/huraivza.m3u8
+#GIRLS TV
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#GLOUBI
+http://tv.ut.cx/gloubi.mp4
+#GULLI
+http://81.92.105.135:5555/pl.m3u8?channel=418
+#GULLI
+rtmp://5.189.144.85/live?auth=ca963eaaa693f1ad213c3b328aef6b4780326ba0c7b2da12ebba08c74871d726//gulli
+#HANIBAL
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+#HAYAT FOLK
+http://81.92.105.135:5555/pl.m3u8?channel=154
+#HAYAT MUSIC
+http://81.92.105.135:5555/pl.m3u8?channel=156
+#HAYAT PLUS
+http://81.92.105.135:5555/pl.m3u8?channel=153
+#HAYAT TV
+http://81.92.105.135:5555/pl.m3u8?channel=155
+#HORSE COUNTRY
+http://81.92.105.135:5555/pl.m3u8?channel=301
+#HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/phd60/huraivza.m3u8
+#HOT GIRL
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#HOT MOVIES
+http://edge2.everyon.tv:1935/etv2sb/phd511/huraivza.m3u8
+#HOT MOVIES
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#HR FERNSEHEN
+http://81.92.105.135:5555/pl.m3u8?channel=73
+#HRT1
+http://81.92.105.135:5555/pl.m3u8?channel=164
+#I TELE
+http://81.92.105.135:5555/pl.m3u8?channel=417
+#ICTIMAI AZ
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/ictimai/ictimai/ictimai.m3u8?seyirturk=fb:simpletvipadresleri3
+#IDMAN TV
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8?
+#IL TV
+rtmp://str81.creacast.com:80/iltv/high
+#IMEDI
+http://80.77.52.6:4314/udp/226.0.0.17:12345
+#IN TV
+http://81.92.105.135:5555/pl.m3u8?channel=25
+#INDIA TV
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/indiatv/indiatv/indiatv.m3u8?seyirturk=fb:simpletvipadresleri3
+#INTER AZ
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/interaz/interaz/interaz.m3u8?seyirturk=fb:simpletvipadresleri3
+#IRAQ SPORT
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#IRAQ TV
+http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+#ITV
+http://81.92.105.135:5555/pl.m3u8?channel=305
+#ITV
+http://81.92.105.135:5555/pl.m3u8?channel=89
+#ITV2
+http://81.92.105.135:5555/pl.m3u8?channel=90
+#ITV3
+http://81.92.105.135:5555/pl.m3u8?channel=91
+#ITWORKS TV
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+#JASMIN TV
+rtmp://109.71.162.112:1935/live/hd.jasminchannel.stream
+#JOIZ
+http://81.92.105.135:5555/pl.m3u8?channel=82
+#JORDAN
+rtmp://64.251.14.168/jorlive/jrtv
+#JUWELO TV
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+#K TV
+http://81.92.105.135:5555/pl.m3u8?channel=32
+#KABEL1
+http://81.92.105.135:5555/pl.m3u8?channel=29
+#KABEL1
+http://81.92.105.135:5555/pl.m3u8?channel=30
+#KANAL 1
+http://199.195.195.108:32006=version2
+#KANAL 1
+http://199.195.195.108:32005=version2
+#KANAL 1
+http://199.195.195.108:32004=version2
+#KANAL 1
+http://199.195.195.108:32003=version2
+#KANAL 1
+http://199.195.195.108:32002=version2
+#KANAL 1
+http://199.195.195.108:32001=version2
+#KANAL UKR
+http://185.38.12.20:8088/5kanal_ukr/
+#KARUSEL
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/karusel/karusel/karusel.m3u8?seyirturk=fb:simpletvipadresleri3
+#KAS TV
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+#KIKA
+http://81.92.105.135:5555/pl.m3u8?channel=31
+#KIKA
+rtmp://5.189.144.85/live?auth=bfb2e4fb88134b093c4e98f0b67350bc113328c4b84d812f12a0bc3cc1c0bc81//kika
+#KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#KTV 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+#KTV ARABE
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+#KTV ETRAA
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
+#KTV PLUS
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
+#KUNHIA TV
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/kuhniatv/kuhniatv/kuhniatv.m3u8?seyirturk=fb:simpletvipadresleri3
+#KUWAIT TV
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#LA TELE
+http://rtmp.infomaniak.ch/livecast/latele/SAT_TOTAL.m3u8
+#LBC
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#LIDER TV
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/lider/lider/lider.m3u8?seyirturk=fb:simpletvipadresleri3
+#LIFE
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/life/life/life.m3u8?seyirturk=fb:simpletvipadresleri3
+#LIVE LATIN
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#LIVETHING
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#LIVETHING
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#LT1
+http://81.92.105.135:5555/pl.m3u8?channel=74
+#M6
+http://81.92.105.135:5555/pl.m3u8?channel=407
+#M6
+rtmp://5.189.144.85/live?auth=5d98e8ba6085713cd61fbd047c1a48e463401f28258d50dab2c1dc94501de657//m6
+#MAANNEWS
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+#MAIDAN TV
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/maidantv/maidantv/maidantv.m3u8?seyirturk=fb:simpletvipadresleri3
+#MANOULENZ TV
+http://81.92.105.135:5555/pl.m3u8?channel=22
+#MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+#MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#MBC 4
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+#MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/hasbahca.m3u8
+#MDR
+rtmp://5.189.144.85/live?auth=960c6cb2c002dd6a8bd8f4a35bf5ffbd7b52892a9de04cc54cbdcf824cb9ae37//mdr
+#MDR SACHSEN
+http://81.92.105.135:5555/pl.m3u8?channel=150
+#MDRS ANHALT
+http://81.92.105.135:5555/pl.m3u8?channel=151
+#MED LIVE
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
+#MEDI1 SAT
+http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8
+#MEDIL
+rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream
+#MELODY AFLAM
+rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
+#MEUNCHEN TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
+#MKTV2 SAT
+http://81.92.105.135:5555/pl.m3u8?channel=160
+#MONTE CARLO
+rtmp://fms.105.net:1935/live/rmc1
+#MORE HITS
+http://188.138.9.228:8020
+#MORE4
+http://81.92.105.135:5555/pl.m3u8?channel=94
+#MOSALSALAT 1
+http://185.27.237.105:8082/TV0119
+#MOVIES+1
+http://81.92.105.135:5555/pl.m3u8?channel=307
+#MOVIESs 4 MEN
+http://81.92.105.135:5555/pl.m3u8?channel=306
+#MUNCHEN TV
+http://81.92.105.135:5555/pl.m3u8?channel=33
+#MUSTCBOX 80
+http://tv.ut.cx/musicbox80.mp4
+#MUZ TV
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/muztv/muztv/muztv.m3u8?seyirturk=fb:simpletvipadresleri3
+#MY PIANET
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/myplanet/myplanet/myplanet.m3u8?seyirturk=fb:simpletvipadresleri3
+#N TV
+http://81.92.105.135:5555/pl.m3u8?channel=37
+#N24
+http://81.92.105.135:5555/pl.m3u8?channel=34
+#N24
+rtmp://5.189.144.85/live?auth=bd3f39002f1e96279bb34e809940a2ac4221d08d3a38e4c03ebd36bcbeaac741//n24_ch
+#NABAA TV
+rtmp://31.14.40.238:1935/live/Nabaa
+#NAT GEO
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+#NDR
+rtmp://5.189.144.85/live?auth=592b0b1c433549b63e6bbd6b7c797a8274638769aea0e4beb04df6505d418d2a//ndr
+#NDRFSHH
+http://81.92.105.135:5555/pl.m3u8?channel=139
+#NDRFSNDS
+http://81.92.105.135:5555/pl.m3u8?channel=162
+#NDRFSSH
+http://81.92.105.135:5555/pl.m3u8?channel=140
+#NESSMA
+rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
+#News 7
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8
+#NICKELODEON
+http://81.92.105.135:5555/pl.m3u8?channel=35
+#NICKELODEON
+rtmp://5.189.144.85/live?auth=6f50c765572a764a3e4845e5b0e6f1d426ff0bf4880272a7462e7307b657a2f7//nickelodeon
+#NICKELODEON AUS
+http://81.92.105.135:5555/pl.m3u8?channel=36
+#NIGHT CLUB
+http://46.47.13.200:1234/udp/224.244.244.199:19993
+#NOTELE
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#NRJ 12
+rtmp://5.189.144.85/live?auth=dbf37bb270ef71bf5371c8dbd4a1737abce5079736a7ee6b46f11ad12aaeb74e//nrj12
+#NRJ TV
+rtmp://5.189.144.85/live?auth=b9e4ba11ba336e9bd3d0645a510ef9097d532d601ae674e3e8f20f2e66e0767d//nrjtv
+#NRJ12
+http://81.92.105.135:5555/pl.m3u8?channel=413
+#NT1
+http://81.92.105.135:5555/pl.m3u8?channel=416
+#NT1
+rtmp://5.189.144.85/live?auth=b0723d3db0c66dc5b78afa605ef97e186883779e7f16c427f0b2d67f42ca8c1a//nt1
+#OHDEOK
+http://edge2.everyon.tv:1935/etv2sb/phd993/huraivza.m3u8
+#OHDEOK
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#OK MAGDEBURG
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#OK SALZWEDEL
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#OK STENDAL
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#OK WENIGERODE
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#OKADAI HD
+http://edge2.everyon.tv:1935/etv2/phd1003/huraivza.m3u8
+#OKADAI HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#OLALA
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#ORF SPORT+
+http://81.92.105.135:5555/pl.m3u8?channel=84
+#ORF1
+http://81.92.105.135:5555/pl.m3u8?channel=7
+#ORF2
+http://81.92.105.135:5555/pl.m3u8?channel=8
+#ORFIII
+http://81.92.105.135:5555/pl.m3u8?channel=88
+#PARADISE
+http://edge2.everyon.tv:1935/etv2/phd1008/huraivza.m3u8
+#PARADISE
+rtmp://edge2.everyon.tv/etv2/phd1008
+#PASSIESXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#PAYAM
+http://payamlive.nanocdn.com:1935/live/payam256/hasan.m3u8
+#PHOENIX
+http://81.92.105.135:5555/pl.m3u8?channel=38
+#PINK TV
+http://edge2.everyon.tv:1935/etv2sb/phd62/huraivza.m3u8
+#PINK TV
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#PLAYBOY
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#PLAYBOY
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#PLAYBOY
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/527/index.m3u8
+#PLAYBOY CHAT
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#Playboy TV+18
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#PLUS
+http://edge2.everyon.tv:1935/etv2sb/phd992/huraivza.m3u8
+#PLUS
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#PREMIUM
+http://edge2.everyon.tv:1935/etv2/phd1006/huraivza.m3u8
+#PREMIUM
+rtmp://edge2.everyon.tv/etv2/phd1006
+#PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#PRO SIEBEN SCH
+http://81.92.105.135:5555/pl.m3u8?channel=171
+#PRO7
+http://81.92.105.135:5555/pl.m3u8?channel=39
+#PRO7
+http://81.92.105.135:5555/pl.m3u8?channel=40
+#PRO7MAXX
+http://81.92.105.135:5555/pl.m3u8?channel=41
+#PTC
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+#PULS4 AUSTRIA
+http://81.92.105.135:5555/pl.m3u8?channel=85
+#PUNKTUM
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#QURAN MEKKE
+http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
+#QVC
+http://81.92.105.135:5555/pl.m3u8?channel=148
+#QVC BEAUTY&STYLE
+http://81.92.105.135:5555/pl.m3u8?channel=149
+#QVC DEUTSCHLAND
+http://81.92.105.135:5555/pl.m3u8?channel=147
+#RBB Brandenburg
+http://81.92.105.135:5555/pl.m3u8?channel=165
+#RBW
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#REGION TV
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/medeniyet/medeniyet/medeniyet.m3u8?&seyirturk=fb:simpletvipadresleri3
+#RIC
+rtmp://5.189.144.85/live?auth=8683512cc9360b9365167ea2720eeaac3ea32b9de67050282ccf4a2b0b192ede//rictv
+#RLT 9
+rtmp://5.189.144.85/live?auth=f600c7f862936d15b80a381ff54d9550845d0bdabe96237dbeaa8ff77207eb03//rtl9
+#RNF
+http://81.92.105.135:5555/pl.m3u8?channel=42
+#ROTANA MUSIC
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/SAT_TOTAL.m3u8
+#ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#RTC
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#RTL
+http://81.92.105.135:5555/pl.m3u8?channel=43
+#RTL
+http://81.92.105.135:5555/pl.m3u8?channel=44
+#RTL
+http://81.92.105.135:5555/pl.m3u8?channel=47
+#RTL2
+http://81.92.105.135:5555/pl.m3u8?channel=45
+#RTL2
+http://81.92.105.135:5555/pl.m3u8?channel=46
+#RTS DEUX
+http://81.92.105.135:5555/pl.m3u8?channel=174
+#RTS DEUX
+rtmp://5.189.144.85/live?auth=8ceee4ad7bc31ca485186d7f35a954ef06ee60863a739ba325e2576c6b2707e3//rtsdeux
+#RTS UN
+http://81.92.105.135:5555/pl.m3u8?channel=173
+#RTS Un
+rtmp://5.189.144.85/live?auth=4b715f461e949aa165d5d44e5050ce7d1dda929eb57ba125fcc437a251696d2a//rtsun
+#RU TV
+http://80.77.52.6:4314/udp/226.0.0.77:12345
+#RUS BABY
+http://80.77.52.6:4314/udp/226.0.0.72:12345
+#RUSSIAN NIGHT
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#RUSSIAN NIGHT
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#RUSSIAN NIGHT
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/147/index.m3u8
+#RUSTAVI2
+http://80.77.52.6:4314/udp/226.0.0.1:12345
+#SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/huraivza.m3u8
+#SAKURA
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#SAT 1
+http://81.92.105.135:5555/pl.m3u8?channel=170
+#SAT 1A
+http://81.92.105.135:5555/pl.m3u8?channel=50
+#SAT1
+http://81.92.105.135:5555/pl.m3u8?channel=49
+#SERVUS TV
+http://81.92.105.135:5555/pl.m3u8?channel=51
+#SERVUS TV
+http://81.92.105.135:5555/pl.m3u8?channel=159
+#SEX STATION
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#SHANT TV
+http://81.92.105.135:5555/pl.m3u8?channel=111
+#SIXX
+http://81.92.105.135:5555/pl.m3u8?channel=52
+#SIXX AUSTRIA
+http://81.92.105.135:5555/pl.m3u8?channel=53
+#SKY NEWS INT
+http://81.92.105.135:5555/pl.m3u8?channel=310
+#Sky Sports 3
+http://185.56.30.127:8082/TV4286
+#Sky Sports1
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8?wowzasessionid=1707017037
+#Sky Sports2
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8?wowzasessionid=1227923794
+#Sky Sports3
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8?wowzasessionid=1117212295
+#Sky Sports4
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8?wowzasessionid=740555264
+#Sky Sports5
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8?wowzasessionid=794559949
+#SONNENKLAR
+http://81.92.105.135:5555/pl.m3u8?channel=48
+#SPACE TV
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/space/space/space.m3u8?seyirturk=fb:simpletvipadresleri3
+#SPEDA
+http://sepidehlive.nanocdn.com:1935/live/sepideh256/hasan.m3u8
+#SPORT1
+rtmp://5.189.144.85/live?auth=122c83469d1e8b37eea4358e14589a377921a09e96b34b349bacec1ec950bbd6//sport1
+#SPORT1
+http://81.92.105.135:5555/pl.m3u8?channel=54
+#SR FERNSEHEN
+http://81.92.105.135:5555/pl.m3u8?channel=71
+#SRF 1 HD
+http://81.92.105.135:5555/pl.m3u8?channel=97
+#SRF 2 HD
+http://81.92.105.135:5555/pl.m3u8?channel=98
+#SRF INFO
+http://81.92.105.135:5555/pl.m3u8?channel=3
+#SRF1
+http://81.92.105.135:5555/pl.m3u8?channel=1
+#SRF2
+http://81.92.105.135:5555/pl.m3u8?channel=2
+#STAR
+http://80.77.52.6:4314/udp/226.0.0.19:12345
+#SUPER RTL
+http://81.92.105.135:5555/pl.m3u8?channel=55
+#SUPER RTLA
+http://81.92.105.135:5555/pl.m3u8?channel=56
+#SWR
+rtmp://5.189.144.85/live?auth=9c656989975fd5322b67da1eebd80c4de993a2bae1540c755817ad2da8276802//swr
+#SWR FERNSEBW
+http://81.92.105.135:5555/pl.m3u8?channel=6
+#SWR FERNSEHEN
+http://81.92.105.135:5555/pl.m3u8?channel=70
+#TAGESSCHAU
+http://81.92.105.135:5555/pl.m3u8?channel=57
+#TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#TB3
+http://80.77.52.6:4314/udp/226.0.0.74:12345
+#TDF
+http://chkg.tdf-cdn.com/5707/stream1.m3u8
+#TELE 5
+http://81.92.105.135:5555/pl.m3u8?channel=106
+#TELE BASEL
+http://81.92.105.135:5555/pl.m3u8?channel=78
+#TELE BERN
+http://81.92.105.135:5555/pl.m3u8?channel=79
+#TELE ZURIH
+http://81.92.105.135:5555/pl.m3u8?channel=80
+#TELE5
+http://81.92.105.135:5555/pl.m3u8?channel=58
+#TELECAFE
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/telecafe/telecafe/telecafe.m3u8?seyirturk=fb:simpletvipadresleri3
+#TEMPTATION
+http://46.47.13.200:1234/udp/224.244.244.97:19993
+#TFI
+rtmp://5.189.144.85/live?auth=078a80022f45e45440eec8e75214c87a0ef380d70b270f1b7c6d5caae927b951//tf1
+#THE O
+http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
+#THE O
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#TMC
+http://81.92.105.135:5555/pl.m3u8?channel=412
+#TOP SECRET
+http://hls01-11.az.myvideo.az/hls-live/livepkgr/topsecret/topsecret/topsecret.m3u8?seyirturk=fb:simpletvipadresleri3
+#TUNUSIA NATI
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+#TUNUSIA NATI2
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#TV 5 MONDE
+rtmp://5.189.144.85/live?auth=d88fb049971d394581a032e204e21895b240d1a4f508d7550dd4a01b1e8c3ed8//tv5monde_fbs
+#TV POLONIA
+http://81.92.105.135:5555/pl.m3u8?channel=107
+#TV11 HD
+http://80.77.52.6:4314/udp/226.0.0.16:12345
+#TV3
+http://80.77.52.6:4314/udp/226.0.0.18:12345
+#TV4
+http://81.92.105.135:5555/pl.m3u8?channel=92
+#TV5 MONDE
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/tv5/tv5/tv5.m3u8?seyirturk=fb:simpletvipadresleri3
+#TV8
+http://80.77.52.6:4314/udp/226.0.0.99:12345
+#TVP HISTORIA
+http://81.92.105.135:5555/pl.m3u8?channel=105
+#TVS
+http://81.92.105.135:5555/pl.m3u8?channel=109
+#TVTRWAM
+http://81.92.105.135:5555/pl.m3u8?channel=110
+#UKRAINE 1
+http://vm-edge-nolanet.la.net.ua/tv/9018.m3u8
+#UKRAINE 2
+http://vm-edge-nolanet.la.net.ua/tv/9014.m3u8
+#UKRAINE 3
+http://vm-edge-nolanet.la.net.ua/tv/9035.m3u8
+#UKRAINE 4
+http://vm-edge-nolanet.la.net.ua/tv/9060.m3u8
+#USABDA
+http://hls01-12.az.myvideo.az/hls-live/livepkgr/usadba/usadba/usadba.m3u8?seyirturk=fb:simpletvipadresleri3
+#UTV
+http://81.92.105.135:5555/pl.m3u8?channel=302
+#VENUS
+http://46.7.13.159:8001/1:0:1: D5:66:53:CE40000:0:0:0:
+#VIASAT EXPLORER
+http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?seyirturk=fb:simpletvipadresleri3
+#VIDEO 1
+http://www.hallotv.eu/images/trailer/hardcore7_en.mp4
+#VIDEO 10
+http://www.hallotv.eu/images/trailer/hardcore8_en.mp4
+#VIDEO 11
+http://www.hallotv.eu/images/trailer/hardcore9_en.mp4
+#VIDEO 12
+http://www.hallotv.eu/images/trailer/hardcore11_en.mp4
+#VIDEO 13
+http://a7-60.5-77.cdn13.com/29000/29105/29105.flv
+#VIDEO 14
+http://a7-60.5-79.cdn13.com/28000/28941/28941.flv
+#VIDEO 2
+http://www.hallotv.eu/images/trailer/hardcore6_en.mp4
+#VIDEO 4
+http://www.hallotv.eu/images/trailer/hardcore4_en.mp4
+#VIDEO 5
+http://www.hallotv.eu/images/trailer/hardcore10_en.mp4
+#VIDEO 6
+http://www.hallotv.eu/images/trailer/hardcore1_en.mp4
+#VIDEO 7
+http://www.hallotv.eu/images/trailer/hardcore2_en.mp4
+#VIDEO 8
+http://www.hallotv.eu/images/trailer/hardcore3_en.mp4
+#VIDEO 9
+http://www.hallotv.eu/images/trailer/hardcore5_en.mp4
+#VINERA TV
+http://serv02.vintera.tv:1935/live/play/playlist.m3u8
+#VIP TV
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/perec/perec/perec.m3u8?seyirturk=fb:simpletvipadresleri3
+#VIP TV
+http://80.77.52.6:4314/udp/226.0.0.101:12345
+#VISIT X
+rtmp://194.116.150.47/live/visitx.stream2
+#VOX
+http://81.92.105.135:5555/pl.m3u8?channel=63
+#VOX AUSTRIA
+http://81.92.105.135:5555/pl.m3u8?channel=64
+#W9
+http://81.92.105.135:5555/pl.m3u8?channel=410
+#W9
+rtmp://5.189.144.85/live?auth=11c8d9e05cee3c2ce8fd22961e7989d05c95ff20929105f5677d4ed861988cff//w9
+#WDR
+rtmp://5.189.144.85/live?auth=ebde474cf3e65be9b3db81f96b28d7258876e6e9343854bdbe8e344fb7bcd0d7//wdr
+#WDR KOLN
+http://81.92.105.135:5555/pl.m3u8?channel=65
+#WDR TV
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#WELDER WUNDER
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#WEO
+rtmp://str81.creacast.com:80/weo/high
+#XX
+http://188.165.220.116:8081/live/12/playlist.m3u8
+#XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#XXL VOD1
+http://a7-60.5-69.cdn13.com/28000/28013/28013.flv
+#XXL VOD10
+http://a7-60.5-79.cdn13.com/28000/28396/28396.flv
+#XXL VOD11
+http://a7-60.5-79.cdn13.com/28000/28516/28516.flv
+#XXL VOD12
+http://a7-60.5-79.cdn13.com/28000/28393/28393.flv
+#XXL VOD13
+http://a7-60.5-79.cdn13.com/28000/28380/28380.flv
+#XXL VOD14
+http://a7-60.5-79.cdn13.com/28000/28379/28379.flv
+#XXL VOD15
+http://a7-60.5-79.cdn13.com/28000/28370/28370.flv
+#XXL VOD16
+http://a7-60.5-79.cdn13.com/28000/28419/28419.flv
+#XXL VOD18
+http://a7-60.5-69.cdn13.com/28000/28148/28148.flv
+#XXL VOD19
+http://a7-60.5-69.cdn13.com/28000/28149/28149.flv
+#XXL VOD2
+http://a7-60.5-69.cdn13.com/28000/28014/28014.flv
+#XXL VOD20
+http://a7-60.5-69.cdn13.com/28000/28150/28150.flv
+#XXL VOD21
+http://a7-60.5-69.cdn13.com/28000/28151/28151.flv
+#XXL VOD22
+http://a7-60.5-69.cdn13.com/28000/28152/28152.flv
+#XXL VOD23
+http://a7-60.5-69.cdn13.com/28000/28153/28153.flv
+#XXL VOD24
+http://a7-60.5-69.cdn13.com/28000/28154/28154.flv
+#XXL VOD25
+http://a7-60.5-69.cdn13.com/28000/28155/28155.flv
+#XXL VOD26
+http://a7-60.5-69.cdn13.com/28000/28156/28156.flv
+#XXL VOD27
+http://a7-60.5-69.cdn13.com/28000/28157/28157.flv
+#XXL VOD28
+http://a7-60.5-69.cdn13.com/28000/28158/28158.flv
+#XXL VOD29
+http://a7-60.5-69.cdn13.com/28000/28159/28159.flv
+#XXL VOD3
+http://a7-60.5-69.cdn13.com/28000/28015/28015.flv
+#XXL VOD30
+http://a7-60.5-69.cdn13.com/28000/28160/28160.flv
+#XXL VOD31
+http://a7-60.5-69.cdn13.com/28000/28022/28022.flv
+#XXL VOD32
+http://a7-60.5-69.cdn13.com/28000/28023/28023.flv
+#XXL VOD33
+http://a7-60.5-69.cdn13.com/28000/28024/28024.flv
+#XXL VOD34
+http://a7-60.5-69.cdn13.com/28000/28025/28025.flv
+#XXL VOD35
+http://a7-60.5-69.cdn13.com/28000/28026/28026.flv
+#XXL VOD36
+http://a7-60.5-69.cdn13.com/28000/28027/28027.flv
+#XXL VOD37
+http://a7-60.5-69.cdn13.com/28000/28028/28028.flv
+#XXL VOD38
+http://a7-60.5-69.cdn13.com/28000/28029/28029.flv
+#XXL VOD39
+http://a7-60.5-69.cdn13.com/28000/28030/28030.flv
+#XXL VOD4
+http://a7-60.5-69.cdn13.com/28000/28016/28016.flv
+#XXL VOD40
+http://a7-60.5-69.cdn13.com/28000/28031/28031.flv
+#XXL VOD41
+http://a7-60.5-69.cdn13.com/28000/28032/28032.flv
+#XXL VOD42
+http://a7-60.5-69.cdn13.com/28000/28033/28033.flv
+#XXL VOD43
+http://a7-60.5-69.cdn13.com/28000/28034/28034.flv
+#XXL VOD44
+http://a7-60.5-69.cdn13.com/28000/28035/28035.flv
+#XXL VOD45
+http://a7-60.5-69.cdn13.com/28000/28036/28036.flv
+#XXL VOD46
+http://a7-60.5-69.cdn13.com/28000/28037/28037.flv
+#XXL VOD47
+http://a7-60.5-69.cdn13.com/28000/28038/28038.flv
+#XXL VOD48
+http://a7-60.5-69.cdn13.com/28000/28039/28039.flv
+#XXL VOD49
+http://a7-60.5-69.cdn13.com/28000/28040/28040.flv
+#XXL VOD5
+http://a7-60.5-69.cdn13.com/28000/28017/28017.flv
+#XXL VOD50
+http://a7-60.5-69.cdn13.com/28000/28041/28041.flv
+#XXL VOD52
+http://a7-60.5-69.cdn13.com/28000/28042/28042.flv
+#XXL VOD53
+http://a7-60.5-69.cdn13.com/28000/28044/28044.flv
+#XXL VOD54
+http://a7-60.5-69.cdn13.com/28000/28045/28045.flv
+#XXL VOD55
+http://a7-60.5-69.cdn13.com/28000/28046/28046.flv
+#XXL VOD56
+http://a7-60.5-69.cdn13.com/28000/28047/28047.flv
+#XXL VOD57
+http://a7-60.5-69.cdn13.com/28000/28048/28048.flv
+#XXL VOD58
+http://a7-60.5-69.cdn13.com/28000/28049/28049.flv
+#XXL VOD59
+http://a7-60.5-69.cdn13.com/28000/28050/28050.flv
+#XXL VOD6
+http://a7-60.5-69.cdn13.com/28000/28018/28018.flv
+#XXL VOD60
+http://a7-60.5-69.cdn13.com/28000/28051/28051.flv
+#XXL VOD61
+http://a7-60.5-69.cdn13.com/28000/28052/28052.flv
+#XXL VOD62
+http://a7-60.5-69.cdn13.com/28000/28053/28053.flv
+#XXL VOD63
+http://a7-60.5-69.cdn13.com/28000/28054/28054.flv
+#XXL VOD64
+http://a7-60.5-69.cdn13.com/28000/28055/28055.flv
+#XXL VOD65
+http://a7-60.5-69.cdn13.com/28000/28056/28056.flv
+#XXL VOD66
+http://a7-60.5-69.cdn13.com/28000/28057/28057.flv
+#XXL VOD67
+http://a7-60.5-69.cdn13.com/28000/28058/28058.flv
+#XXL VOD68
+http://a7-60.5-69.cdn13.com/28000/28059/28059.flv
+#XXL VOD69
+http://a7-60.5-69.cdn13.com/28000/28060/28060.flv
+#XXL VOD7
+http://a7-60.5-69.cdn13.com/28000/28019/28019.flv
+#XXL VOD70
+http://a7-60.5-69.cdn13.com/28000/28061/28061.flv
+#XXL VOD8
+http://a7-60.5-69.cdn13.com/28000/28020/28020.flv
+#XXL VOD9
+http://a7-60.5-69.cdn13.com/28000/28021/28021.flv
+#XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#XXX1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#YVELINES
+http://rtmp.infomaniak.ch/livecast/yveline1/hasbahca.m3u8
+#ZDF
+rtmp://5.189.144.85/live?auth=9887fe3f3c1ae7654b29dc0e44084d374be73cd4a665f381d2bf772bfaf06b1a//zdf
+#ZDF HD
+http://81.92.105.135:5555/pl.m3u8?channel=101
+#ZDF INFO
+http://81.92.105.135:5555/pl.m3u8?channel=66
+#ZDF KULTUR
+http://81.92.105.135:5555/pl.m3u8?channel=67
+#ZDF NEO
+http://81.92.105.135:5555/pl.m3u8?channel=68
+#ZUERI PLUS
+http://81.92.105.135:5555/pl.m3u8?channel=81
+#ZVEZDA
+http://80.77.52.6:4314/udp/226.0.0.73:12345
+#TV-21
+http://mrslone.sytes.net:2299/21.ch?u=IPTV6252:p=TNVKJU7F
+#TV-22
+http://mrslone.sytes.net:2299/22.ch?u=IPTV6252:p=TNVKJU7F
+#TV-23
+http://mrslone.sytes.net:2299/23.ch?u=IPTV6252:p=TNVKJU7F
+#TV-24
+http://mrslone.sytes.net:2299/24.ch?u=IPTV6252:p=TNVKJU7F
+#TV-25
+http://mrslone.sytes.net:2299/25.ch?u=IPTV6252:p=TNVKJU7F
+#TV-26
+http://mrslone.sytes.net:2299/26.ch?u=IPTV6252:p=TNVKJU7F
+#TV-27
+http://mrslone.sytes.net:2299/27.ch?u=IPTV6252:p=TNVKJU7F
+#TV-28
+http://mrslone.sytes.net:2299/28.ch?u=IPTV6252:p=TNVKJU7F
+#TV-29
+http://mrslone.sytes.net:2299/29.ch?u=IPTV6252:p=TNVKJU7F
+#TV-30
+http://mrslone.sytes.net:2299/30.ch?u=IPTV6252:p=TNVKJU7F
+#TV-31
+http://mrslone.sytes.net:2299/31.ch?u=IPTV6252:p=TNVKJU7F
+#TV-32
+http://mrslone.sytes.net:2299/32.ch?u=IPTV6252:p=TNVKJU7F
+#TV-33
+http://mrslone.sytes.net:2299/33.ch?u=IPTV6252:p=TNVKJU7F
+#TV-34
+http://mrslone.sytes.net:2299/34.ch?u=IPTV6252:p=TNVKJU7F
+#TV-35
+http://mrslone.sytes.net:2299/35.ch?u=IPTV6252:p=TNVKJU7F
+#TV-36
+http://mrslone.sytes.net:2299/36.ch?u=IPTV6252:p=TNVKJU7F
+#TV-37
+http://mrslone.sytes.net:2299/37.ch?u=IPTV6252:p=TNVKJU7F
+#TV-38
+http://mrslone.sytes.net:2299/38.ch?u=IPTV6252:p=TNVKJU7F
+#TV-39
+http://mrslone.sytes.net:2299/39.ch?u=IPTV6252:p=TNVKJU7F
+#TV-40
+http://mrslone.sytes.net:2299/40.ch?u=IPTV6252:p=TNVKJU7F
+#TV-41
+http://mrslone.sytes.net:2299/41.ch?u=IPTV6252:p=TNVKJU7F
+#TV-42
+http://mrslone.sytes.net:2299/42.ch?u=IPTV6252:p=TNVKJU7F
+#TV-43
+http://mrslone.sytes.net:2299/43.ch?u=IPTV6252:p=TNVKJU7F
+#TV-44
+http://mrslone.sytes.net:2299/44.ch?u=IPTV6252:p=TNVKJU7F
+#TV-45
+http://mrslone.sytes.net:2299/45.ch?u=IPTV6252:p=TNVKJU7F
+#TV-46
+http://mrslone.sytes.net:2299/46.ch?u=IPTV6252:p=TNVKJU7F
+#TV-47
+http://mrslone.sytes.net:2299/47.ch?u=IPTV6252:p=TNVKJU7F
+#TV-48
+http://mrslone.sytes.net:2299/48.ch?u=IPTV6252:p=TNVKJU7F
+#TV-49
+http://mrslone.sytes.net:2299/49.ch?u=IPTV6252:p=TNVKJU7F
+#TV-50
+http://mrslone.sytes.net:2299/50.ch?u=IPTV6252:p=TNVKJU7F
+#TV-51
+http://mrslone.sytes.net:2299/51.ch?u=IPTV6252:p=TNVKJU7F
+#TV-52
+http://mrslone.sytes.net:2299/52.ch?u=IPTV6252:p=TNVKJU7F
+#TV-53
+http://mrslone.sytes.net:2299/53.ch?u=IPTV6252:p=TNVKJU7F
+#TV-54
+http://mrslone.sytes.net:2299/54.ch?u=IPTV6252:p=TNVKJU7F
+#TV-55
+http://mrslone.sytes.net:2299/55.ch?u=IPTV6252:p=TNVKJU7F
+#TV-56
+http://mrslone.sytes.net:2299/56.ch?u=IPTV6252:p=TNVKJU7F
+#TV-57
+http://mrslone.sytes.net:2299/57.ch?u=IPTV6252:p=TNVKJU7F
+#TV-58
+http://mrslone.sytes.net:2299/58.ch?u=IPTV6252:p=TNVKJU7F
+#TV-59
+http://mrslone.sytes.net:2299/59.ch?u=IPTV6252:p=TNVKJU7F
+#TV-60
+http://mrslone.sytes.net:2299/60.ch?u=IPTV6252:p=TNVKJU7F
